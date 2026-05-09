@@ -20,7 +20,7 @@ Pergunta: "Você acha isso bom ou ruim?"
 Resposta: "Não tenho informações necessárias para responder sua pergunta."
 
 PERGUNTA DO USUÁRIO:
-{pergunta}
+{question}
 
 RESPONDA A "PERGUNTA DO USUÁRIO"
 """
